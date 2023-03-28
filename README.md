@@ -1,7 +1,7 @@
 ![logo](/icons/icon1_96.png)
 
 # Reddit in Sidebar
-
+## Notice: this addon is ***NOT*** currently published at addons.mozilla.org
 A Firefox WebExtension to display [Reddit](old.reddit.com/.compact) in the sidebar.
 
 This extension adds a new section to the Firefox sidebar which contains the Reddit web app.
