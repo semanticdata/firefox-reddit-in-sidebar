@@ -12,4 +12,4 @@ Press `Alt+Shift+8` to toggle the sidebar. This shortcut can be changed by going
 
 ## Disclaimer
 
-This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use Discord on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to Discord in any way.
+This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use Reddit on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to Reddit in any way.
