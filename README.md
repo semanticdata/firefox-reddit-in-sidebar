@@ -5,6 +5,7 @@
 A Firefox WebExtension to display Reddit within the Firefox sidebar. This extension adds a new section to the sidebar which contains the old compact version of Reddit. It also adds a shortcut, and a button toggle within the toolbar.
 
 ## Why I Use old.reddit.com/.compact
+
 Because after running some tests, it is currently the best Reddit experience within the sidebar.
 
 ## How to Use
