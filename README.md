@@ -1,4 +1,4 @@
-<h1 align=center><img src="/icons/icon1_96.png" />Reddit in Sidebar</h1>
+<h1 align=center><img src="/icons/icon1_96.png" /> Reddit in Sidebar</h1>
 
 <p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B15e57753-391e-4dd7-bd6b-911d22d5ba93%7D?style=for-the-badge">
