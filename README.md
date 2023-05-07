@@ -1,3 +1,5 @@
+>⚠️ This project is not actively used or maintained. Archived on 2023-05-07.
+
 <h1 align=center><img src="/icons/icon1_96.png" /> Reddit in Sidebar</h1>
 
 <p align=center>
