@@ -1,7 +1,7 @@
->⚠️ This project is not actively used or maintained. Archived on 2023-05-07.
+# ![logo](/icons/icon1_96.png) Reddit in Sidebar
+>⚠️ This project is no longer actively used or maintained. ⚠️
 
-<h1 align=center><img src="/icons/icon1_96.png" /> Reddit in Sidebar</h1>
-
+<!--
 <p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B15e57753-391e-4dd7-bd6b-911d22d5ba93%7D?style=for-the-badge">
 <img src="https://img.shields.io/amo/rating/%7B15e57753-391e-4dd7-bd6b-911d22d5ba93%7D?style=for-the-badge" />
@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/amo/users/%7B15e57753-391e-4dd7-bd6b-911d22d5ba93%7D?style=for-the-badge" />
 <img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
 </p>
+-->
 
 A Firefox WebExtension to display Reddit within the Firefox sidebar. This extension adds a new section to the sidebar which contains the old compact version of Reddit. It also adds a shortcut, and a button toggle within the toolbar.
 
